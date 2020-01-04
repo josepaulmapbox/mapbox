@@ -5,7 +5,7 @@
         'type': 'Feature',
         'properties': {
             'description':
-            '<strong>Safi Traders</strong><p>"It is a steel manuf. <br> 876876872 <br>Steel, Iron</p>',
+            '<strong>Shop NAme</strong><p>"description <br> phonenumber <br>material</p>',
             'icon': 'sample'
         },
         'geometry': {
