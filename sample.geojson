@@ -1,0 +1,30 @@
+{
+    'type': 'FeatureCollection',
+    'features': [
+    {
+        'type': 'Feature',
+        'properties': {
+            'description':
+            '<strong>Safi Traders</strong><p>"It is a steel manuf. <br> 876876872 <br>Steel, Iron</p>',
+            'icon': 'sample'
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [77.65192351608846, 9.126344373446116]
+        }
+    },
+    {
+        'type': 'Feature',
+        'properties': {
+            'description':
+            '<strong>Safi Traders</strong><p>"It is a steel manuf. <br> 876876872 <br>Steel, Iron</p>',
+            'icon': 'sample'
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [77.9458077934321, 8.96631172192751]
+        }
+    }
+
+    ]
+}

@@ -1,0 +1,22 @@
+
+                            'features': [
+
+                            {
+                                'type': 'Feature',
+                                'properties': {
+                                    'description':
+                                    '<strong>Safi Traders</strong><p>"It is a steel manuf. <br> 876876872 <br>Steel, Iron</p>',
+                                    'icon': 'theatre'
+                                },
+                                'geometry': {
+                                    'type': 'Point',
+                                    'coordinates': [77.85517058639925, 8.766850452907718]
+                                }
+                            },
+
+
+                            ]
+                      
+                      
+
+                        
